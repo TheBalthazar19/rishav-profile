@@ -12,18 +12,18 @@ A self-taught `Full-Stack Mobile Developer`.
 ### Experience
 
 - Mobile
-  - `Flutter (Dart)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `SwiftUI (Swift)` • `⭐️⭐️⭐️⭐️` `⭐️`
-  - `React Native (JS/TS)` • `⭐️⭐️⭐️⭐️` `⭐️`
-  - `Compose (Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
+  - `Flutter (Dart)` • `⭐️`
+  - `SwiftUI (Swift)` • `⭐`
+  - `React Native (JS/TS)` • `` `⭐️`
+  - `Compose (Kotlin)` • `` `⭐️`
 
 - Web
-  - `Next.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `Svelte (JS/TS)` • `⭐️⭐️⭐️` `⭐️⭐️`
+  - `Next.js (JS/TS)` • `⭐️`
+  - `Svelte (JS/TS)` • `` `⭐️`
  
 - Back End
-  - `Node.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
+  - `Node.js (JS/TS)` • `⭐️`
+  - `Sprint Boot (Java/Kotlin)` • `` `⭐️`
 
 ### Projects
 - [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
@@ -32,7 +32,4 @@ A self-taught `Full-Stack Mobile Developer`.
 
 ---
 
-If not engineering software products, I create reels on Instagram ([`@kabirstack`](https://instagram.com/kabirstack))
 
-- 🕸 [`X@KabirAsani`](https://twitter.com/KabirAsani) • [`LinkedIn`](https://www.linkedin.com/in/kabirasani/)
-- ⚡ I hail from [`India (🇮🇳)`](https://en.wikipedia.org/wiki/India) which houses one of the [`7 wonders`](https://en.wikipedia.org/wiki/Taj_Mahal)!
