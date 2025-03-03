@@ -26,10 +26,8 @@ A self-taught `Full-Stack Mobile Developer`.
   - `Sprint Boot (Java/Kotlin)` •  `⭐️`
 
 ### Projects
-- [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
-- [`Togger (Tinder for Shopping)`](https://toggerclub.com)
-- [`Silicon (Swift DSL)`](https://github.com/kabir-asani/Silicon)
-
----
+- [`Gas-detection System`]((https://github.com/TheBalthazar19/Gas-Detection-System))
+- [`Bookiez-app`]((https://github.com/TheBalthazar19/Bookiez))
+- [`Voting-app`]
 
 
